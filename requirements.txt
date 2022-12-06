@@ -1,5 +1,4 @@
 ocr-nanonets-wrapper
 numpy
 nltk
-flask
 pandas
