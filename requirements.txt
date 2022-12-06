@@ -1,4 +1,3 @@
---root-user-action=ignore requests
 ocr-nanonets-wrapper
 numpy
 nltk
