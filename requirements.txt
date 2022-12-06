@@ -1,1 +1,5 @@
-pip install ocr-nanonets-wrapper
+ocr-nanonets-wrapper
+numpy
+nltk
+flask
+pandas
